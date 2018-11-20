@@ -1,0 +1,9 @@
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\bin\Debug\NeverBounce.dll.config
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\bin\Debug\NeverBounce.dll
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\bin\Debug\NeverBounce.pdb
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\bin\Debug\Newtonsoft.Json.dll
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\bin\Debug\Newtonsoft.Json.xml
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\obj\Debug\NeverBounceSDK.csprojResolveAssemblyReference.cache
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\obj\Debug\NeverBounce.dll
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\obj\Debug\NeverBounce.pdb
+D:\NevetBounce\NeverBounceSDK\NeverBounceSDK\obj\Debug\NeverBounceSDK.csproj.CoreCompileInputs.cache
